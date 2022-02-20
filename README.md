@@ -2,7 +2,9 @@
 
 Website for FTC 19461 LKR366
 
-## Below table is reference for the steps found in each folder.
+## Below table is reference for each step in the process.
+
+Simply locate the step in the Description collumn and then enter the directory with the corresponding reference number.
 
 | Date | Description | Reference Number |
 | --- | --- | --- |
