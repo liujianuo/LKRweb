@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0
+}
+
+.topbar{
+    height:100px;
+    width:100%;
+    background-color: blueviolet;
+    overflow: auto;
+}
+
+.iconwords{
+    height: 100%;
+    width: 15%;
+    min-width: 150px;
+    background-color: yellow;
+    overflow: auto;
+    float: left;
+}
+
+.icon{
+    height: 100%;
+    width: 80%;
+    background-color: green;
+    float: left;
+}
+
+.words{
+    float: left;
+    height: 100%;
+    width: 20%;
+    background-color: white;
+}
+
+.people{
+    float: left;
+    height: 100%;
+    width: 85%;
+    background-color: red;
+}
+
+.bottom{
+    height: 630px;
+    width:100%;
+    background-color: bisque;
+    overflow: auto;
+}
+
+.particons{
+    height:100%;
+    width: 15%;
+    background-color: black;
+    float: left;
+}
+
+.timeline{
+    height:100%;
+    width: 85%;
+    background-color: brown;
+    float: left;
+}
+
+.milestone{
+    height: 50px;
+    width: 100%;
+    background-color: blue;
+}
