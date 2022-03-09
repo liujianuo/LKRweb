@@ -9,3 +9,4 @@ Simply locate the step in the Description collumn and then enter the directory w
 | Date | Description | Reference Number |
 | --- | --- | --- |
 | 19/02 | Basic HTML div structure complete | 1 |
+| 09/03 | Added static elements | 2 |
