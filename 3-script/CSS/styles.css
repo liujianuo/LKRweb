@@ -88,6 +88,7 @@ body{
     grid-gap: 10px;
     align-items: center;
     background-color: white;
+    overflow: hidden;
 }
 
 .face{
@@ -123,7 +124,7 @@ body{
 .teams{
     height: 90%;
     width: 100%;
-    background-color: yellow;
+    background-color: white;
     display: grid;
 }
 
